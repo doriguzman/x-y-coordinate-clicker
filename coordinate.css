@@ -1,0 +1,13 @@
+body{
+    background-color: lime;
+    color: magenta
+}
+#button{
+    background-color:magenta;
+    color:lime;
+}
+
+body, #button{
+    font-family: 'Spectral', serif;
+    
+}
